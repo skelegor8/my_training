@@ -46,14 +46,22 @@ body{
 
 h1{
    font-size: 30px;
+   color: #445161;
+}
+
+.text{
+   color: #333333;
+   line-height: 25px;
 }
 
 h2{
    font-size: 25px;
+   color: #445161;
 }
 
 .blod{
    font-weight: 900;
+   color: #333333;
 }
 
 .redcolortext{
@@ -62,40 +70,50 @@ h2{
 
 h3{
    font-size: 20px;
+   color: #445161;
 }
 
 .righttext{
    text-align: right;
+   color: #333333;
 }
 
 .uppercase{
    text-transform: uppercase;
+   color: #333333;
 }
 
 .italic{
    font-style: italic;
+   color: #333333;
 }
 
 .dawnline{
    text-decoration: underline;
+   color: #333333;
 }
 
 .centertrext{
    text-align: center;
+   color: #333333;
 }
 
 .fontsize24{
    font-size: 24px;
+   color: #333333;
 }
 
 .centrline{
    text-decoration: line-through;
+   color: #333333;
 }
 
 .fontfamilytimenewroman{
    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+   color: #333333;
 }
 
 .shadow{
    text-shadow: 1px 1px 1px #000;
+   color: #333333;
 }
