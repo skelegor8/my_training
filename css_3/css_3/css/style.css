@@ -45,26 +45,24 @@ body{
 }
 
 span{
+   margin: 0 0 0 50px;
    display: block;
    max-width: 1180px;
 }
 
 div{
+   margin: 0 0 0 50px;
    max-width: 1180px;
+}
+
+a{
+   margin: 0 0 0 50px;
 }
 
 .block-1{
    width: 40%;
    margin: 50px 0 30px 50px;
    line-height: 25px;
-}
-
-.str-1{
-   margin: 0 0 0 50px;
-}
-
-.link-1{
-   margin: 0 0 0 50px;
 }
 
 .block-2{
@@ -74,9 +72,28 @@ div{
 }
 
 .block-3{
-
+   margin: 0 0 35px 50px;
+   display: inline-block;
 }
 
 p{
-   
+   margin: 0 0 35px 30px;
+   display: inline-block;
+}
+
+.str-2{
+   padding: 0 20px 0 20px;
+   display: inline-block;
+   margin: 35px 0 35px 50px;
+}
+
+.link-2{
+   padding: 0 20px 0 0;
+   display: inline-block;
+   margin: 35px 0 35px 0;
+}
+
+.str-3{
+   padding: 50px 0 50px 0;
+   margin: 37px 0 0 50px;
 }
