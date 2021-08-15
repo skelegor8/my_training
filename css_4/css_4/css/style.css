@@ -39,3 +39,9 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 /*----------------------Обнуление----------------------*/
+
+.block{
+   height: 300px;
+   border-radius: 15px;
+   box-shadow: 0 0 10px #000;
+}
